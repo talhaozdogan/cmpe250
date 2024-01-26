@@ -1,0 +1,285 @@
+Aysu Kose is promoted from Cashier to Cook.
+Bediz Koc is promoted from Cashier to Cook.
+Cemresu Celik is promoted from Cashier to Cook.
+Açelya Aydogan is promoted from Cashier to Cook.
+Manager of the Bala branch is Cankut Arslan.
+Balkin Aygun is promoted from Cashier to Cook.
+Canhanım Sahiner is promoted from Cashier to Cook.
+Bala Alp is promoted from Cashier to Cook.
+Total bonuses for the Bayindir branch this month are: 542
+Açelya Aydogan is leaving from branch: Adalar.
+Manager of the Adalar branch is Adile Karahan.
+Bahiye Yigit is leaving from branch: Adalar.
+Aygül Duran is promoted from Cashier to Cook.
+Acer Gunay is promoted from Cashier to Cook.
+Badem Gunes is leaving from branch: Bala.
+Ezgi Ipek is promoted from Cashier to Cook.
+Asuman Yildiran is promoted from Cashier to Cook.
+Balkiz Aslan is leaving from branch: Bala.
+Manager of the Bayindir branch is Canperver Koc.
+Manager of the Adalar branch is Adile Karahan.
+Adalet Kilicaslan is leaving from branch: Gursu.
+Bahriye Alkan is leaving from branch: Avanos.
+Ajda Ekinci is leaving from branch: Bayindir.
+Manager of the Bayindir branch is Canperver Koc.
+Total bonuses for the Avanos branch this month are: 300
+Aynur Gurbuz is promoted from Cashier to Cook.
+Bahtiyar Gul is leaving from branch: Bayindir.
+Bediz Koc is leaving from branch: Agin.
+Canel Yucel is leaving from branch: Agin.
+Bergen Seker is promoted from Cashier to Cook.
+Afitap Cicek is promoted from Cashier to Cook.
+Total bonuses for the Bala branch this month are: 415
+Total bonuses for the Gursu branch this month are: 704
+Bakanay Yildiran is promoted from Cashier to Cook.
+Ayfer Aygun is promoted from Cashier to Cook.
+Manager of the Agin branch is Canela Yilmazer.
+Canalp Duran is dismissed from branch: Avanos.
+Aysu Guler is leaving from branch: Bayindir.
+Bakanay Bayrak is promoted from Cashier to Cook.
+Hafsa Dag is leaving from branch: Bala.
+Total bonuses for the Bala branch are: 1231
+Canay Erdogan is leaving from branch: Avanos.
+Cemresu Yilmaz is promoted from Cashier to Cook.
+Canel Ozturk is leaving from branch: Bayindir.
+There is no such employee.
+Cenah Polat is leaving from branch: Agin.
+Total bonuses for the Adalar branch this month are: 111
+Acarhatun Yilmazer is leaving from branch: Gursu.
+Total bonuses for the Bala branch this month are: 177
+Total bonuses for the Bala branch are: 1253
+Total bonuses for the Adalar branch are: 2036
+Cannur Karakas is leaving from branch: Gursu.
+Ayla Ekinci is leaving from branch: Bayindir.
+Fatih Alp is promoted from Cashier to Cook.
+There is no such employee.
+Ceren Aksu is leaving from branch: Gursu.
+Total bonuses for the Avanos branch this month are: 0
+Total bonuses for the Bayindir branch this month are: 0
+Cankat Yucel is promoted from Cashier to Cook.
+Total bonuses for the Agin branch this month are: 0
+Manager of the Bala branch is Cankut Arslan.
+Belde Kilic is dismissed from branch: Agin.
+Abendam Kuru is dismissed from branch: Avanos.
+Aysel Kilicarslan is leaving from branch: Avanos.
+Manager of the Bayindir branch is Canperver Koc.
+Total bonuses for the Gursu branch are: 2327
+Cankat Yucel is leaving from branch: Bala.
+Manager of the Agin branch is Canela Yilmazer.
+Manager of the Avanos branch is Canperver Duran.
+Abdullah Kucuk is leaving from branch: Gursu.
+There is no such employee.
+Cankut Arslan is leaving from branch: Bala.
+Başak Aytac is promoted from Cook to Manager.
+Manager of the Adalar branch is Adile Karahan.
+There is no such employee.
+Bahariye Aksu is leaving from branch: Bala.
+Total bonuses for the Bala branch this month are: 0
+There is no such employee.
+There is no such employee.
+Aynur Ozen is leaving from branch: Bala.
+Total bonuses for the Gursu branch this month are: 235
+Asiye Yilmazer is leaving from branch: Bala.
+Halim Yavuz is leaving from branch: Agin.
+Manager of the Bala branch is Başak Aytac.
+Iknat Tasdemir is promoted from Cashier to Cook.
+Total bonuses for the Avanos branch this month are: 356
+İlayda Gunay is leaving from branch: Avanos.
+Aynur Gurbuz is leaving from branch: Bayindir.
+There is no such employee.
+There is no such employee.
+Halide Sari is promoted from Cashier to Cook.
+Canece Mert is leaving from branch: Gursu.
+Fecir Cetin is leaving from branch: Bayindir.
+Belgi Yildirim is leaving from branch: Gursu.
+Total bonuses for the Bala branch this month are: 502
+Bahtiyar Celik is promoted from Cashier to Cook.
+Total bonuses for the Avanos branch this month are: 480
+Total bonuses for the Agin branch this month are: 0
+Manager of the Agin branch is Canela Yilmazer.
+Manager of the Agin branch is Canela Yilmazer.
+Total bonuses for the Bala branch this month are: 199
+Bakinaz Sarac is promoted from Cashier to Cook.
+Manager of the Adalar branch is Adile Karahan.
+Manager of the Bayindir branch is Canperver Koc.
+Manager of the Avanos branch is Canperver Duran.
+There is no such employee.
+Abbase Gul is promoted from Cashier to Cook.
+Halide Sari is leaving from branch: Bayindir.
+There is no such employee.
+Total bonuses for the Bala branch this month are: 461
+Dilay Kocak is leaving from branch: Bayindir.
+There is no such employee.
+Gaye Er is leaving from branch: Avanos.
+Canhanım Avci is promoted from Cashier to Cook.
+Balkiz Ceylan is leaving from branch: Bayindir.
+Canalp Yasar is promoted from Cashier to Cook.
+Eceseren Ozturk is promoted from Cashier to Cook.
+Total bonuses for the Bala branch this month are: 0
+Candan Yavuz is promoted from Cashier to Cook.
+Ezgi Ipek is leaving from branch: Avanos.
+Cemalnur Yuksel is promoted from Cashier to Cook.
+There is no such employee.
+Manager of the Agin branch is Canela Yilmazer.
+Total bonuses for the Avanos branch this month are: 107
+Mayra Yasar is leaving from branch: Gursu.
+Total bonuses for the Bayindir branch this month are: 124
+Total bonuses for the Bayindir branch are: 3229
+Debernuş Sahiner is promoted from Cashier to Cook.
+Manager of the Agin branch is Canela Yilmazer.
+Abadan Aydogan is leaving from branch: Avanos.
+Ceren Ipek is leaving from branch: Adalar.
+Baha Koc is promoted from Cashier to Cook.
+Adile Duran is promoted from Cashier to Cook.
+Manager of the Adalar branch is Adile Karahan.
+Manager of the Bayindir branch is Canperver Koc.
+There is no such employee.
+Balkin Ozturk is leaving from branch: Agin.
+Fatih Alp is leaving from branch: Avanos.
+Total bonuses for the Gursu branch are: 3738
+Firdevsi Akbas is promoted from Cashier to Cook.
+Canal Aygun is promoted from Cashier to Cook.
+Total bonuses for the Avanos branch this month are: 787
+Manager of the Adalar branch is Adile Karahan.
+Danyal Seker is promoted from Cashier to Cook.
+Habibullah Yilmazer is promoted from Cashier to Cook.
+Farika Oz is leaving from branch: Gursu.
+Manager of the Gursu branch is Cazibe Guler.
+Asuman Yildiran is leaving from branch: Avanos.
+Belgi Guler is leaving from branch: Adalar.
+Acunalp Bayrak is leaving from branch: Avanos.
+Manager of the Adalar branch is Adile Karahan.
+Belen Yucel is leaving from branch: Adalar.
+Canipek Alkan is leaving from branch: Adalar.
+Gizmen Cengiz is promoted from Cashier to Cook.
+Belen Aksu is leaving from branch: Agin.
+Canece Saglam is leaving from branch: Gursu.
+Cemresu Gurbuz is leaving from branch: Agin.
+Total bonuses for the Avanos branch are: 3293
+Demir Korkmaz is leaving from branch: Avanos.
+Manager of the Adalar branch is Adile Karahan.
+Ferhunde Saglam is promoted from Cashier to Cook.
+Hüdaverdi Gunes is promoted from Cashier to Cook.
+Total bonuses for the Avanos branch this month are: 171
+Kamelya Yavuz is promoted from Cashier to Cook.
+Total bonuses for the Bayindir branch this month are: 181
+Aytekin Toprak is leaving from branch: Gursu.
+Hizir Kocak is promoted from Cashier to Cook.
+Bahtiyar Polat is promoted from Cashier to Cook.
+Fermande Avci is leaving from branch: Bala.
+Mahrur Kocak is leaving from branch: Agin.
+Total bonuses for the Avanos branch this month are: 256
+Eceseren Ozturk is leaving from branch: Agin.
+Damla Sarac is promoted from Cashier to Cook.
+Hizir Kocak is leaving from branch: Agin.
+Total bonuses for the Adalar branch this month are: 297
+Cemresu Gunes is leaving from branch: Avanos.
+Total bonuses for the Avanos branch this month are: 0
+Total bonuses for the Bala branch are: 5171
+Hakverdi Aydemir is leaving from branch: Gursu.
+Farik Aygun is leaving from branch: Agin.
+Total bonuses for the Agin branch this month are: 0
+Total bonuses for the Avanos branch are: 3581
+Bakanay Yildiran is leaving from branch: Gursu.
+Davud Saglam is dismissed from branch: Adalar.
+Ferhunde Saglam is leaving from branch: Bala.
+Cenah Seker is leaving from branch: Gursu.
+Acer Gunay is leaving from branch: Bayindir.
+Ayla Bayrak is leaving from branch: Bala.
+There is no such employee.
+Ayla Yasar is dismissed from branch: Agin.
+There is no such employee.
+Badem Aydogan is promoted from Cashier to Cook.
+Total bonuses for the Avanos branch are: 3938
+Garabed Akpinar is leaving from branch: Adalar.
+Ayfer Aygun is leaving from branch: Gursu.
+Total bonuses for the Agin branch are: 4799
+Total bonuses for the Bala branch this month are: 0
+Manager of the Gursu branch is Cazibe Guler.
+There is no such employee.
+Total bonuses for the Avanos branch are: 3938
+Total bonuses for the Bala branch are: 5286
+Ira Taskin is promoted from Cashier to Cook.
+Manager of the Bala branch is Başak Aytac.
+Total bonuses for the Gursu branch this month are: 156
+Balkiz Genc is promoted from Cashier to Cook.
+Cenah Kuru is leaving from branch: Bala.
+Kardelen Oz is leaving from branch: Bala.
+Hediye Cetin is promoted from Cashier to Cook.
+Cilvekar Dag is promoted from Cashier to Cook.
+Lerzan Demir is leaving from branch: Bala.
+Total bonuses for the Adalar branch are: 5587
+Cazibe Guler is leaving from branch: Gursu.
+Cannur Seker is promoted from Cook to Manager.
+Manager of the Gursu branch is Cannur Seker.
+Canhanım Aytac is leaving from branch: Bayindir.
+Ceren Sahin is promoted from Cashier to Cook.
+Manager of the Adalar branch is Adile Karahan.
+Gencal Yasar is leaving from branch: Agin.
+Ishak Bayrak is leaving from branch: Bala.
+Total bonuses for the Bayindir branch are: 5609
+Total bonuses for the Bayindir branch this month are: 325
+There is no such employee.
+Total bonuses for the Adalar branch this month are: 0
+Gorani Akpinar is leaving from branch: Adalar.
+Total bonuses for the Bayindir branch are: 5609
+There is no such employee.
+Manager of the Gursu branch is Cannur Seker.
+Manager of the Bala branch is Başak Aytac.
+There is no such employee.
+Manager of the Agin branch is Canela Yilmazer.
+Manager of the Agin branch is Canela Yilmazer.
+Celile Kocak is leaving from branch: Gursu.
+Manager of the Bayindir branch is Canperver Koc.
+Behçet Nas is promoted from Cashier to Cook.
+Total bonuses for the Gursu branch are: 6904
+Erdem Yildirim is leaving from branch: Agin.
+Total bonuses for the Avanos branch this month are: 0
+Manager of the Avanos branch is Canperver Duran.
+Ferdi Kose is promoted from Cashier to Cook.
+Total bonuses for the Bala branch this month are: 55
+Emetullah Bayrak is leaving from branch: Avanos.
+Canalp Yasar is leaving from branch: Adalar.
+Dahiye Aslan is leaving from branch: Bayindir.
+Harika Yavuz is leaving from branch: Avanos.
+Kamer Yilmazer is promoted from Cashier to Cook.
+There is no such employee.
+There is no such employee.
+Manager of the Adalar branch is Adile Karahan.
+Eftal Yilmazer is promoted from Cashier to Cook.
+There is no such employee.
+Total bonuses for the Bala branch this month are: 475
+Adalet Erdogan is leaving from branch: Bala.
+Lamiha Aytac is promoted from Cashier to Cook.
+Total bonuses for the Bayindir branch this month are: 537
+Manager of the Agin branch is Canela Yilmazer.
+Bakinaz Sarac is leaving from branch: Adalar.
+There is no such employee.
+Total bonuses for the Adalar branch this month are: 1119
+Canhanım Sahiner is leaving from branch: Bayindir.
+Başak Dag is leaving from branch: Agin.
+Danyal Seker is leaving from branch: Gursu.
+Ajda Arslan is promoted from Cashier to Cook.
+There is no such employee.
+Cavide Guler is leaving from branch: Bayindir.
+There is no such employee.
+Canperver Duran is leaving from branch: Avanos.
+Aynur Aydin is promoted from Cook to Manager.
+Total bonuses for the Bayindir branch this month are: 126
+Lerze Tuncer is leaving from branch: Adalar.
+Havin Ekinci is leaving from branch: Adalar.
+Total bonuses for the Agin branch are: 7373
+Total bonuses for the Bala branch this month are: 91
+Behçet Nas is leaving from branch: Adalar.
+Aynur Aydin is leaving from branch: Avanos.
+Cemresu Yilmaz is promoted from Cook to Manager.
+Afitap Cicek is leaving from branch: Adalar.
+Manager of the Adalar branch is Adile Karahan.
+Total bonuses for the Gursu branch this month are: 191
+Manager of the Gursu branch is Cannur Seker.
+Canal Dagdelen is leaving from branch: Gursu.
+Adile Karahan is leaving from branch: Adalar.
+Belde Toprak is promoted from Cook to Manager.
+Gencay Kilicarslan is leaving from branch: Adalar.
+Ihya Ozturk is leaving from branch: Bala.
+There is no such employee.
